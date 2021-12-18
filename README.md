@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+## Stephanie M.G. Wilson Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/SWi1/SMG.Wilson/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Experienced research project manager with a demonstrated history of working in a human subjects laboratory and committment to inclusion through planning, policy, and action. Skilled in statistical data analysis and data visualization, leading human subjects clinical trials, organizational and policy development, graphic design.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+__RESEARCH INTERESTS__  
+Chronic Disease, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes, Nutritional Epidemiology  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+__PhD Interdisciplinary – Nutritional Metabolism and Microbiology__  
+Certificate in Applied Statistics: Completed 2020  
+Montana State University, Bozeman, MT  
+Dissertation: Diet-Induced Alterations to the Gut Microbiota and Postprandial Metabolism (Tentative Title)  
+Expected completion: May 2022  
+Committee: Profs. Mary Miles, Carl Yeoman, Seth Walk, Brian Bothner  
 
-# Header 1
-## Header 2
-### Header 3
+__MS 	Exercise and Nutrition Sciences__  
+Montana State University, Bozeman, MT  
+Completed: December 2018  
+[Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
+Committee: Profs. Mary Miles, John Seifert, and Carl Yeoman  
 
-- Bulleted
-- List
+__BS	Exercise Science__  
+Indiana University, Bloomington, IN  
+Completed: 2013  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+#### 2021  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+__Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption improves hepatic insulin resistance in adults with central adiposity – A Randomized Clinical Trial Dose Response Study. (Preparing for submission).  
 
-### Jekyll Themes
+__Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SWi1/SMG.Wilson/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience.  
+		
+#### 2019  
+Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73.
 
-### Support or Contact
+### Conference Presentations
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 2021
+
+__Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
+
+#### 2020  
+
+__Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
+
+__Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.  
+
+__Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT.  
+
+#### 2019 
+
+__Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.
+
+#### 2018
+
+__Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to ACSM annual meeting. Minneapolis, MN.
+
+### Teaching Experience
+
+#### Courses
+Spring 2020, Instructor, Nutrition for Sports and Exercise (400-level), Montana State University, 37 Students  
+2017 – 2019,	Graduate Teaching Assistant, Capstone for Dietetics (400-level), Montana State University, Spring semesters  
+2017 – 2018, 	Graduate Teaching Assistant, Nutrition Assessment & Counsel (400-level), Montana State University, Spring semesters  
+
+#### Undergraduate Mentees  
+**indicates NCUR presenter*
+
+2021-2022: Katie Logan, Katy Kropatsch, Amanda Anderson, Jessica Kudelski, Jayme Dyc, Mackenzie Winters  
+2020-2021: Claire Turner, Anna Kristenson, Kaitlyn Weinheimer*, Sofia Whitefields*, Rachel Nyquist  
+2019-2020: Ian Breuner*, Kirsten Pfanmuller*, Gia Sorini*, Bailey Veitenheimer*
+2018-2019: Brenna Ostertag, Isabella Stoakes  
+2016-2017: Adam Maes  
+
+
+### Research Support  
+
+2017, 2019, 2020:	College of Education, Health and Human Development Travel Scholarship  
+2020: Winter Research Celebration Travel Award, Montana State University  
+
+### Academic Service  
+
+2018 – Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University  
+2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University  
+
+### Professional Memberships
+
+2020 – Present:	Graduate Women in Science, At-large Member  
+2016 – Present:	American College of Sports Medicine, Member
