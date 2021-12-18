@@ -31,11 +31,11 @@ Completed: 2013
 #### 2021  
 
   - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption improves hepatic insulin resistance in adults with central adiposity – A Randomized Clinical Trial Dose Response Study. (Preparing for submission).  
-  - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107.  
-  - Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience.  
+  - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
+  - Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859) 
 		
 #### 2019  
-  - Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73.
+  - Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
 
 ### Conference Presentations
 
