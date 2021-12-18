@@ -13,15 +13,15 @@ Certificate in Applied Statistics: Completed 2020
 Montana State University, Bozeman, MT  
 Dissertation: Diet-Induced Alterations to the Gut Microbiota and Postprandial Metabolism (Tentative Title)  
 Expected completion: May 2022  
-Committee: Profs. Mary Miles, Carl Yeoman, Seth Walk, Brian Bothner  
+Committee: Drs. Mary P.. Miles, Carl Yeoman, Seth T. Walk, Brian Bothner  
 
-__MS 	Exercise and Nutrition Sciences__  
+__MS Exercise and Nutrition Sciences__  
 Montana State University, Bozeman, MT  
 Completed: December 2018  
-[Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
-Committee: Profs. Mary Miles, John Seifert, and Carl Yeoman  
+[Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation  
+Committee: Drs. Mary P.. Miles, Carl Yeoman, John Seifert
 
-__BS	Exercise Science__  
+__BS Exercise Science__  
 Indiana University, Bloomington, IN  
 Completed: 2013  
 
@@ -30,65 +30,62 @@ Completed: 2013
 
 #### 2021  
 
-__Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption improves hepatic insulin resistance in adults with central adiposity – A Randomized Clinical Trial Dose Response Study. (Preparing for submission).  
-
-__Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107.  
-
-Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience.  
+  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption improves hepatic insulin resistance in adults with central adiposity – A Randomized Clinical Trial Dose Response Study. (Preparing for submission).  
+  - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107.  
+  - Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience.  
 		
 #### 2019  
-Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73.
+  - Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73.
 
 ### Conference Presentations
 
 #### 2021
 
-__Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
+  - __Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
 
 #### 2020  
 
-__Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
+  - __Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
 
-__Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.  
+  - __Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.  
 
-__Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT.  
+  - __Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT.  
 
 #### 2019 
 
-__Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.
+  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.
 
 #### 2018
 
-__Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to ACSM annual meeting. Minneapolis, MN.
+  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to ACSM annual meeting. Minneapolis, MN.
 
 ### Teaching Experience
 
 #### Courses
-Spring 2020, Instructor, Nutrition for Sports and Exercise (400-level), Montana State University, 37 Students  
-2017 – 2019,	Graduate Teaching Assistant, Capstone for Dietetics (400-level), Montana State University, Spring semesters  
-2017 – 2018, 	Graduate Teaching Assistant, Nutrition Assessment & Counsel (400-level), Montana State University, Spring semesters  
+  - Spring 2020, Instructor, Nutrition for Sports and Exercise (400-level), Montana State University, 37 Students  
+  - 2017 – 2019, Graduate Teaching Assistant, Capstone for Dietetics (400-level), Montana State University, Spring semesters  
+  - 2017 – 2018, Graduate Teaching Assistant, Nutrition Assessment & Counsel (400-level), Montana State University, Spring semesters  
 
 #### Undergraduate Mentees  
 **indicates NCUR presenter*
 
-2021-2022: Katie Logan, Katy Kropatsch, Amanda Anderson, Jessica Kudelski, Jayme Dyc, Mackenzie Winters  
-2020-2021: Claire Turner, Anna Kristenson, Kaitlyn Weinheimer*, Sofia Whitefields*, Rachel Nyquist  
-2019-2020: Ian Breuner*, Kirsten Pfanmuller*, Gia Sorini*, Bailey Veitenheimer*
-2018-2019: Brenna Ostertag, Isabella Stoakes  
-2016-2017: Adam Maes  
-
+  - 2021-2022: Katie Logan, Katy Kropatsch, Amanda Anderson, Jessica Kudelski, Jayme Dyc, Mackenzie Winters  
+  - 2020-2021: Claire Turner, Anna Kristenson, [Kaitlyn Weinheimer*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), [Sofia Whitefields*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), Rachel Nyquist  
+  - 2019-2020: [Ian Breuner*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=116553), [Kirsten Pfannmuller*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=116666), [Gia Sorini*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=117180), [Bailey Veitenheimer*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=117059)
+  - 2018-2019: Brenna Ostertag, Isabella Stoakes  
+  - 2016-2017: Adam Maes  
 
 ### Research Support  
 
-2017, 2019, 2020:	College of Education, Health and Human Development Travel Scholarship  
-2020: Winter Research Celebration Travel Award, Montana State University  
+  - 2017, 2019, 2020:	College of Education, Health and Human Development Travel Scholarship  
+  - 2020: Winter Research Celebration Travel Award, Montana State University  
 
 ### Academic Service  
 
-2018 – Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University  
-2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University  
+  - 2018 – Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University  
+  - 2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University  
 
 ### Professional Memberships
 
-2020 – Present:	Graduate Women in Science, At-large Member  
-2016 – Present:	American College of Sports Medicine, Member
+  - 2020 – Present:	Graduate Women in Science, At-large Member  
+  - 2016 – Present:	American College of Sports Medicine, Member
