@@ -70,7 +70,7 @@ Completed: 2013
 **indicates NCUR presenter*
 
   - 2021-2022: Katie Logan, Katy Kropatsch, Amanda Anderson, Jessica Kudelski, Jayme Dyc, Mackenzie Winters  
-  - 2020-2021: [Kaitlyn Weinheimer*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), [Sofia Whitefields*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), Rachel Nyquist, Claire Turner, Anna Kristenson
+  - 2020-2021: [Sofia Whitefields*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), Rachel Nyquist, Claire Turner, Anna Kristenson, [Kaitlyn Weinheimer*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703)
   - 2019-2020: [Ian Breuner*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=116553), [Kirsten Pfannmuller*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=116666), [Gia Sorini*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=117180), [Bailey Veitenheimer*](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=117059)
   - 2018-2019: Brenna Ostertag, Isabella Stoakes  
   - 2016-2017: Adam Maes  
