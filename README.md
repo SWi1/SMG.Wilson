@@ -13,13 +13,13 @@ Certificate in Applied Statistics: Completed 2020
 Montana State University, Bozeman, MT  
 Dissertation: Diet-Induced Alterations to the Gut Microbiota and Postprandial Metabolism (Tentative Title)  
 Expected completion: May 2022  
-Committee: Drs. Mary P.. Miles, Carl Yeoman, Seth T. Walk, Brian Bothner  
+Committee: Drs. Mary P. Miles, Carl Yeoman, Seth T. Walk, Brian Bothner  
 
 __MS Exercise and Nutrition Sciences__  
 Montana State University, Bozeman, MT  
 Completed: December 2018  
 [Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation  
-Committee: Drs. Mary P.. Miles, Carl Yeoman, John Seifert
+Committee: Drs. Mary P. Miles, Carl Yeoman, John Seifert
 
 __BS Exercise Science__  
 Indiana University, Bloomington, IN  
@@ -47,13 +47,12 @@ Completed: 2013
 
   - __Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
 
-  - __Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.  
-
-  - __Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT.  
+  - __Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.   
 
 #### 2019 
 
-  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.
+  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.  
+  - __Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT. 
 
 #### 2018
 
