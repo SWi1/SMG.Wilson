@@ -3,7 +3,7 @@
 Experienced research project manager with a demonstrated history of working in a human subjects laboratory and committment to inclusion through planning, policy, and action. Skilled in statistical data analysis and data visualization, leading human subjects clinical trials, organizational and policy development, graphic design.
 
 __RESEARCH INTERESTS__  
-Chronic Disease, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes, Nutritional Epidemiology  
+Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes, Nutritional Epidemiology  
 
 
 ### Education
@@ -28,9 +28,10 @@ Completed: 2013
 
 ### Publications
 
-#### 2021  
+#### 2022  
+  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. (Submitted).  
 
-  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption improves hepatic insulin resistance in adults with central adiposity – A Randomized Clinical Trial Dose Response Study. (Submitted).  
+#### 2021  
   - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
   - Peach, J.T., __Wilson, S.M.__, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. Temporal metabolic response yields a dynamic biosignature of inflammation. IScience. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859) 
 		
