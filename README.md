@@ -1,7 +1,5 @@
 ## Stephanie M.G. Wilson Curriculum Vitae
 
-Experienced research project manager with a demonstrated history of working in a human subjects laboratory and committment to inclusion through planning, policy, and action. Skilled in statistical data analysis and data visualization, leading human subjects clinical trials, organizational and policy development, graphic design.
-
 __RESEARCH INTERESTS__  
 Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes, Nutritional Epidemiology  
 
