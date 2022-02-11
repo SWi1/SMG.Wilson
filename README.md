@@ -27,7 +27,7 @@ Completed: 2013
 ### Publications
 
 #### 2022  
-  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. (Submitted).  
+  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. (In Review).  
 
 #### 2021  
   - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
@@ -35,6 +35,9 @@ Completed: 2013
 		
 #### 2019  
   - Miles, M.P, __Wilson, S__, and Yeoman, C.J. (2019) Physical Activity and Inflammation Phenotype Conversion. Journal of Clinical Exercise Physiology: June 2019, Vol. 8, No. 2, pp. 64-73. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
+
+### Books  
+  - Miles, M.P., __Wilson, S.M.G.__, Chamberlin, M.L. (2022) _Sports Nutrition Laboratory Manual_. Montana State University Library. [https://scholarworks.montana.edu/xmlui/handle/1/16659](https://scholarworks.montana.edu/xmlui/handle/1/16659)
 
 ### Conference Presentations
 
