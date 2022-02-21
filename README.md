@@ -68,7 +68,7 @@ Completed: 2013
   - 2017 – 2018, Graduate Teaching Assistant, Nutrition Assessment & Counsel (400-level), Montana State University, Spring semesters  
 
 #### Undergraduate Mentees  
-*#indicates NCUR presenter*
+*#indicates [National Conference on Undergraduate Researh](https://www.cur.org/)(NCUR) presenter*
 
   - 2021-2022: Katie Logan, Katy Kropatsch#, Amanda Anderson#, Jessica Kudelski#, Jayme Dyc#, Mackenzie Winters#  
   - 2020-2021:  [Kaitlyn Weinheimer#](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703), Anna Kristenson, Claire Turner, Rachel Nyquist,  [Sofia Whitefields#](https://apps.cur.org/ncur2021/archive/Display_NCUR.aspx?id=212703)  
