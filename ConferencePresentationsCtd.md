@@ -1,8 +1,6 @@
 ---
-layout: page
-title: "Conference Presentations Continued"
-permalink: https://swi1.github.io/SMG.Wilson/ConferencePresentationsCtd/
---- 
+layout: default
+---
 
 ## Stephanie M.G. Wilson Curriculum Vitae 
 
@@ -14,3 +12,5 @@ First author presentations listed on primary CV page.
   - 
 
 #### 2021  
+
+[back](./)
