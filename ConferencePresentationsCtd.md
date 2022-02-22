@@ -1,3 +1,9 @@
+---
+title: Conference Presentations Continued
+layout: template
+filename: ConferencePresentationsCtd.md
+--- 
+
 ## Stephanie M.G. Wilson Curriculum Vitae 
 
 ### Conference Presentations - Continued
