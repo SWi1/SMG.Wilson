@@ -1,7 +1,7 @@
 ---
-title: Conference Presentations Continued
-layout: template
-filename: ConferencePresentationsCtd.md
+layout: page
+title: "Conference Presentations Continued"
+permalink: https://swi1.github.io/SMG.Wilson/ConferencePresentationsCtd/
 --- 
 
 ## Stephanie M.G. Wilson Curriculum Vitae 
