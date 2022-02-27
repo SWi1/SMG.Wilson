@@ -39,8 +39,13 @@ Completed: 2013
 ### Books  
   - Miles, M.P., __Wilson, S.M.G.__, Chamberlin, M.L. (2022) _Sports Nutrition Laboratory Manual_. Montana State University Library. [https://scholarworks.montana.edu/xmlui/handle/1/16659](https://scholarworks.montana.edu/xmlui/handle/1/16659)
 
-### Conference Presentations
+### Select Conference Presentations
+1st Author Presentations Listed. Additional conference presentations listed [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentationsCtd.md).
 
+#### 2022  
+
+  - __Wilson, S.M.__, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabollicaly At-Risk Adults. Thematic poster presentation at the ACSM Annual Meeting and World Congresses, San Diego, CA.
+ 
 #### 2021
 
   - __Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
