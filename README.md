@@ -81,6 +81,10 @@ Completed: 2013
   - 2018-2019: Brenna Ostertag, Isabella Stoakes  
   - 2016-2017: Adam Maes  
 
+### Awards 
+
+  - 2022 - President's Award for Gender Equity, Montana State University
+
 ### Research Support  
 
   - 2017, 2019, 2020:	College of Education, Health and Human Development Travel Scholarship  
