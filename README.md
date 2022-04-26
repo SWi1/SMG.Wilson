@@ -9,7 +9,7 @@ Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Assoc
 __PhD in Individual Interdisciplinary__  
 Certificate in Applied Statistics: Completed 2020  
 Montana State University, Bozeman, MT  
-Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota 
+Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota  
 Expected completion: May 2022  
 Committee: Drs. Mary P. Miles (Health & Human Development), Carl Yeoman (Animal & Range Sciences), Seth T. Walk (Microbiology & Cell Biology), Brian Bothner (Chemistry & Biochemistry)
 
