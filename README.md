@@ -6,12 +6,12 @@ Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Assoc
 
 ### Education
 
-__PhD Interdisciplinary – Nutritional Metabolism and Microbiology__  
+__PhD in Individual Interdisciplinary__  
 Certificate in Applied Statistics: Completed 2020  
 Montana State University, Bozeman, MT  
-Dissertation: Diet-Induced Alterations to the Gut Microbiota and Postprandial Metabolism (Tentative Title)  
+Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota 
 Expected completion: May 2022  
-Committee: Drs. Mary P. Miles, Carl Yeoman, Seth T. Walk, Brian Bothner  
+Committee: Drs. Mary P. Miles (Health & Human Development), Carl Yeoman (Animal & Range Sciences), Seth T. Walk (Microbiology & Cell Biology), Brian Bothner (Chemistry & Biochemistry)
 
 __MS Exercise and Nutrition Sciences__  
 Montana State University, Bozeman, MT  
@@ -87,7 +87,7 @@ Completed: 2013
 
 ### Research Support  
 
-  - 2017, 2019, 2020:	College of Education, Health and Human Development Travel Scholarship  
+  - 2017, 2019, 2020, 2022: College of Education, Health and Human Development Travel Scholarship  
   - 2020: Winter Research Celebration Travel Award, Montana State University  
 
 ### Academic Service  
