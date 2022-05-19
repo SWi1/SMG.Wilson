@@ -7,17 +7,17 @@ Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Assoc
 ### Education
 
 __PhD in Individual Interdisciplinary__  
-Certificate in Applied Statistics: Completed 2020  
+Certificate in Applied Statistics: Completed Spring 2020  
 Montana State University, Bozeman, MT  
 Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota  
-Expected completion: May 2022  
-Committee: Drs. Mary P. Miles (Health & Human Development), Carl Yeoman (Animal & Range Sciences), Seth T. Walk (Microbiology & Cell Biology), Brian Bothner (Chemistry & Biochemistry)
+Completed: May 2022  
+Committee: Drs. Mary P. Miles (Health & Human Development), Carl J. Yeoman (Animal & Range Sciences), Seth T. Walk (Microbiology & Cell Biology), Brian Bothner (Chemistry & Biochemistry)
 
 __MS Exercise and Nutrition Sciences__  
 Montana State University, Bozeman, MT  
 Completed: December 2018  
 [Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation  
-Committee: Drs. Mary P. Miles, Carl Yeoman, John Seifert
+Committee: Drs. Mary P. Miles, Carl J. Yeoman, John Seifert
 
 __BS Exercise Science__  
 Indiana University, Bloomington, IN  
@@ -84,6 +84,7 @@ Completed: 2013
 ### Awards 
 
   - 2022 - President's Award for Gender Equity, Montana State University
+  - 2022 - Graduate School Excellence Award for Scholarship, Montana State University
 
 ### Research Support  
 
@@ -93,7 +94,7 @@ Completed: 2013
 ### Academic Service  
 
   - 2018 – Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University  
-  - 2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University  
+  - 2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University 
 
 ### Professional Memberships
 
