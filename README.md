@@ -39,32 +39,6 @@ Completed: 2013
 ### Books  
   - Miles, M.P., __Wilson, S.M.G.__, Chamberlin, M.L. (2022) _Sports Nutrition Laboratory Manual_. Montana State University Library. [https://scholarworks.montana.edu/xmlui/handle/1/16659](https://scholarworks.montana.edu/xmlui/handle/1/16659)
 
-### Select Conference Presentations
-1st Author Presentations Listed. Additional conference presentations listed [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentationsCtd.md).
-
-#### 2022  
-
-  - __Wilson, S.M.__, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabollicaly At-Risk Adults. Thematic poster presentation at the ACSM Annual Meeting and World Congresses, San Diego, CA.
- 
-#### 2021
-
-  - __Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
-
-#### 2020  
-
-  - __Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
-
-  - __Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.   
-
-#### 2019 
-
-  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.  
-  - __Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT. 
-
-#### 2018
-
-  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to ACSM annual meeting. Minneapolis, MN.
-
 ### Teaching Experience
 
 #### Courses
@@ -95,6 +69,32 @@ Completed: 2013
 
   - 2018 – Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University  
   - 2017 – 2021: Graduate Student Representative, Policy Subcommittee (2019 – 2021), President’s Commission on the Status of University Women, Montana State University 
+
+### Select Conference Presentations
+1st Author Presentations Listed. Additional conference presentations listed [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentationsCtd.md).
+
+#### 2022  
+
+  - __Wilson, S.M.__, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the ACSM Annual Meeting and World Congresses, San Diego, CA.
+ 
+#### 2021
+
+  - __Wilson, S.M.__, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to ACSM annual meeting. Virtual.
+
+#### 2020  
+
+  - __Wilson, S.M.__, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults – a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.  
+
+  - __Wilson, S.M__, Pinkham, N.V.,  Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults.  Poster presentation delivered to ACSM annual meeting. Virtual.   
+
+#### 2019 
+
+  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to Gordon Research Conference – Metabolomics and Human Health conference, Ventura, CA.  
+  - __Wilson, S.M.__, Peach, J.T., Bothner, B., and Miles M.P. Temporal response yields a dynamic biosignature of inflammation and discriminative gut bacterial features. Poster presentation delivered to 2019 Winter Student Research Celebration, Montana State University, Bozeman, MT. 
+
+#### 2018
+
+  - __Wilson, S.__, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to ACSM annual meeting. Minneapolis, MN.
 
 ### Professional Memberships
 
