@@ -1,28 +1,27 @@
 ## Stephanie M.G. Wilson Curriculum Vitae
 
 __RESEARCH INTERESTS__  
-Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes, Nutritional Epidemiology  
-
+Postprandial Metabolism, Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes
 
 ### Education
 
-__PhD in Individual Interdisciplinary__  
-Certificate in Applied Statistics: Completed Spring 2020  
-Montana State University, Bozeman, MT  
-Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota  
-Completed: May 2022  
-Committee: Drs. Mary P. Miles (Health & Human Development), Carl J. Yeoman (Animal & Range Sciences), Seth T. Walk (Microbiology & Cell Biology), Brian Bothner (Chemistry & Biochemistry)
+__PhD, Individual Interdisciplinary - 2022__  
+Montana State University, Bozeman, Montana  
+Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota   
+Committee: Drs. Mary P. Miles, Carl J. Yeoman, Seth T. Walk, Brian Bothner  
+Certificate in Applied Statistics: Completed 2020  
 
-__MS Exercise and Nutrition Sciences__  
-Montana State University, Bozeman, MT  
+
+__MS Exercise and Nutrition Sciences - 2018__  
+Montana State University, Bozeman, Montana
 Completed: December 2018  
 [Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation  
-Committee: Drs. Mary P. Miles, Carl J. Yeoman, John Seifert
+Committee: Drs. Mary P. Miles, Carl J. Yeoman, John Seifert  
 
-__BS Exercise Science__  
-Indiana University, Bloomington, IN  
-Completed: 2013  
 
+__BS Exercise Science - 2013__  
+Indiana University, Bloomington, Indiana  
+Minors: Biology, Chemistry, Studio Art  
 
 ### Publications
 
@@ -100,3 +99,10 @@ Completed: 2013
 
   - 2020 – Present:	Graduate Women in Science, At-large Member  
   - 2016 – Present:	American College of Sports Medicine, Member
+
+
+### Software Programs
+
+  - Surveys: REDCap; Qualtrics; ASA24, ACT 24, & DHQ III (National Cancer Institute)
+  - Data Processing & Statistics: RStudio/R, MOTHUR
+  - Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat)
