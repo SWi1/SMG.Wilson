@@ -25,7 +25,7 @@ Minors: Biology, Chemistry, Studio Art
 ### Publications
 
 #### 2022  
-  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. (In Review).  
+  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. Nutrition Research. (Accepted for Publication).  
 
 #### 2021  
   - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
