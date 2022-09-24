@@ -25,7 +25,7 @@ Minors: Biology, Chemistry, Studio Art
 ### Publications
 
 #### 2022  
-  - __Wilson, S.M.G.__, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. Nutrition Research. (Accepted for Publication).  
+  - __Wilson, S.M.G.__, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity – A Randomized Clinical Trial. Nutrition Research. Vol. 106. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
 #### 2021  
   - __Wilson, S.M.__, Maes, A.P.,  Walk, S.T., Yeoman, C.J., and Miles, M.P. Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. Lipids in Health and Disease. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
@@ -55,8 +55,9 @@ Minors: Biology, Chemistry, Studio Art
 
 ### Awards 
 
-  - 2022 - President's Award for Gender Equity, Montana State University
-  - 2022 - Graduate School Excellence Award for Scholarship, Montana State University
+  - 2022 - President's Award for Gender Equity; Montana State University
+  - 2022 - Graduate School Excellence Award for Scholarship; Montana State University
+  - 2022 - Outstanding Graduate Award; College of Education, Health, and Human Development; Montana State University
 
 ### Research Support  
 
@@ -96,6 +97,7 @@ Minors: Biology, Chemistry, Studio Art
 
 ### Professional Memberships
 
+  - 2022 - Present:	American Society for Nutrition, Early Career I Member
   - 2020 – Present:	Graduate Women in Science, At-large Member  
   - 2016 – Present:	American College of Sports Medicine, Member
 
