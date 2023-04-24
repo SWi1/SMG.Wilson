@@ -70,7 +70,7 @@ $^*$[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR)
 ### Academic Service
 
 -   2018 - Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University
--   2017 -- 2021: Graduate Student Representative, Policy Subcommittee (2019 -- 2021), President's Commission on the Status of University Women, Montana State University
+-   2017 - 2021: Graduate Student Representative, Policy Subcommittee (2019 - 2021), President's Commission on the Status of University Women, Montana State University
 
 ### Select Conference Presentations
 
@@ -101,7 +101,6 @@ $^*$[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR)
 ### Professional Memberships
 
 -   2022 - Present: American Society for Nutrition, Early Career I Member
--   2020 - 2022: Graduate Women in Science, At-large Member
 -   2016 - Present: American College of Sports Medicine, Member
 
 ### Software Programs
