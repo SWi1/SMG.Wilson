@@ -50,7 +50,7 @@ Minors: Biology, Chemistry, Studio Art
 
 *[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presenter
 
--   2021-2022: Katie Logan, [Katy Kropatsch*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2698), [Amanda Anderson*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2985), [Jessica Kudelski*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2909), [Jayme Dyc*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/3119), [Mackenzie Winters*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2961)
+-   2021-2022: Katie Logan, Katy Kropatsch*, Amanda Anderson*, Jessica Kudelski*, Jayme Dyc*, Mackenzie Winters*
 -   2020-2021: Kaitlyn Weinheimer*, Anna Kristenson, Claire Turner, Rachel Nyquist, Sofia Whitefields*
 -   2019-2020: Ian Breuner*, Kirsten Pfannmuller*, Gia Sorini*, Bailey Veitenheimer*
 -   2018-2019: Brenna Ostertag, Isabella Stoakes
