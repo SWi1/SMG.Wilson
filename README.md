@@ -1,6 +1,6 @@
 # Stephanie M.G. Wilson Curriculum Vitae
 **RESEARCH INTERESTS**\
-Postprandial Metabolism, Chronic Disease Prevention, Physical Activity and Sedentary Behavior, Host-Associated Microbiomes
+Dietary Bioactives, Postprandial Metabolism, Chronic Disease Prevention, Host-Associated Microbiomes
 
 ### Education
 
