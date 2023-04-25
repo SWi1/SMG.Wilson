@@ -48,7 +48,7 @@ Minors: Biology, Chemistry, Studio Art
 
 #### Undergraduate Mentees
 
-$^*$[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presenter
+*[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presenter
 
 -   2021-2022: Katie Logan, [Katy Kropatsch*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2698), [Amanda Anderson*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2985), [Jessica Kudelski*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2909), [Jayme Dyc*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/3119), [Mackenzie Winters*](https://ncur.secure-platform.com/a/gallery/rounds/5/details/2961)
 -   2020-2021: Kaitlyn Weinheimer*, Anna Kristenson, Claire Turner, Rachel Nyquist, Sofia Whitefields*
@@ -76,9 +76,13 @@ $^*$[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR)
 
 1st Author Presentations Listed. Additional conference presentations listed [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentationsCtd.md).
 
+#### 2023
+
+- **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) to be presented at NUTRITION 2023. Boston, MA.
+
 #### 2022
 
--   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the ACSM Annual Meeting and World Congresses, San Diego, CA.
+-   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the ACSM Annual Meeting and World Congresses. San Diego, CA.
 
 #### 2021
 
@@ -106,5 +110,5 @@ $^*$[National Conference on Undergraduate Research](https://www.cur.org/) (NCUR)
 ### Software Programs
 
 -   Surveys and Assessments: REDCap; Qualtrics, ASA24, ACT 24, & DHQ III (National Cancer Institute)
--   Data Analysis and Visualization: RStudio/R, MOTHUR
+-   Data Analysis and Visualization: RStudio/R, Python
 -   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat)
