@@ -67,8 +67,9 @@ Minors: Biology, Chemistry, Studio Art
 -   2017, 2019, 2020, 2022: College of Education, Health and Human Development Travel Scholarship
 -   2020: Winter Research Celebration Travel Award, Montana State University
 
-### Academic Service
+### Leadership
 
+-   2020 - Current: Vice President (2020 - Spring 2022) and Alumni Advisor (Summer 2022 - Current), Asian Student Interracial Association, Montana State University
 -   2018 - Fall 2021: Graduate Employee Organization Departmental Steward, Montana State University
 -   2017 - 2021: Graduate Student Representative, Policy Subcommittee (2019 - 2021), President's Commission on the Status of University Women, Montana State University
 
