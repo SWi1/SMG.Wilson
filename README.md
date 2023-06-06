@@ -8,7 +8,7 @@ Dietary Bioactives, Postprandial Metabolism, Chronic Disease Prevention, Host-As
 Montana State University, Bozeman, Montana\
 Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota\
 Committee: Drs. Mary P. Miles, Carl J. Yeoman, Seth T. Walk, Brian Bothner\
-Certificate in Applied Statistics: Completed 2020
+Certificate in Applied Statistics: 2020
 
 **MS Exercise and Nutrition Sciences - 2018**\
 Montana State University, Bozeman, Montana\
@@ -106,10 +106,10 @@ Minors: Biology, Chemistry, Studio Art
 ### Professional Memberships
 
 -   2022 - Present: American Society for Nutrition, Early Career I Member
--   2016 - Present: American College of Sports Medicine, Member
+-   2016 - 2022: American College of Sports Medicine, Member
 
 ### Software Programs
 
 -   Surveys and Assessments: REDCap; Qualtrics, ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat)
+-   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva
