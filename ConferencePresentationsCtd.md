@@ -3,9 +3,14 @@
 ### Conference Presentations - Continued
 First author presentations listed on primary CV page. 
 
+#### 2023
+
+  - Chamberlin, M., Peterson, E., Lee, L.,  __Wilson, S.M.G__, and Miles, M.P. Anthropometric Predictors Of The Postprandial Triglyceride Response In A Metabolically At-risk Cohort. Poster presentation at ACSM Annual Meeting, Denver, CO.
+  - Kropatsch, K., Chamberlin, M., __Wilson, S.M.G__, Spears, M., and Miles, M.P. Anthropometric Determinants Of HOMA-IR In A Metabolically At-risk Population. Poster presentation at ACSM Annual Meeting, Denver, CO.
+  - Spears, M., Chamberlin, M., Bhattarai, P., Kropatsch, K., __Wilson, S.M.G__, and Miles, M.P. Relationship Between Body Composition And Inflammation In Individuals At Risk For Metabolic Syndrome. Poster presentation at ACSM Annual Meeting, Denver, CO.
+
 #### 2022
 
-  - Bhattarai, P., __Wilson, S.M.__, Bronsky, S.E., Gaston, M.E., Vella, C.A., and Miles, M.P. Dietary Fat, Sedentary Behavior, and Blood Triglycerides in Adults with High Waist Circumference. Poster presentation at ACSM Annual Meeting, San Diego, CA.
   - Chamberlin, M., __Wilson, S.__, Vella, C.A, Bronsky, S., and Miles, M.P. Inflammation Variability and Relationship to Physical Activity and Visceral Adipose Tissue in Metabollically Healthy Adults. Thematic poster session at ACSM Annual Meeting, San Diego, CA.
   - Lotstein, A.K., __Wilson, S.__, Vella, C.A., and Miles, M.P. Test-Retest Reliaability of Physical Activity and Sedentary Behaviors in Non-diabetic Overweight and Obese Adults. Poster presentation at ACSM Annual Meeting, San Diego, CA.
   - Peterson, E.J., __Wilson, S.M.__, Gaston, M.E., Bronsky, S.E., Kuo, W., Vella, C.A., and Miles, M.P. Impact of Sedentary Time and Habitual Glycemic Load on Glucose Responses from a 12-week Dietary Lentil Intervention. Poster presentation at ACSM Annual Meeting, San Diego, CA.  
