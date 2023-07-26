@@ -58,6 +58,7 @@ Minors: Biology, Chemistry, Studio Art
 
 ### Awards
 
+-   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist, American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
 -   2022: President's Award for Gender Equity, Montana State University
 -   2022: Graduate School Excellence Award for Scholarship; Montana State University
@@ -79,7 +80,7 @@ Minors: Biology, Chemistry, Studio Art
 
 #### 2023
 
-- **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) to be presented at NUTRITION 2023. Boston, MA.
+- **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2023. Boston, MA.
 
 #### 2022
 
