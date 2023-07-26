@@ -5,6 +5,7 @@ First author presentations listed on primary CV page.
 
 #### 2023
 
+  - Chamberlin, M., __Wilson, S.M.G__, and Miles, M.P. Impact of a 12-Week Lentil Dietary Intervention on Inflammation in a Metabollically At-Risk Population. Poster presentation at ASN NUTRITION 2023, Boston, MA.
   - Chamberlin, M., Peterson, E., Lee, L.,  __Wilson, S.M.G__, and Miles, M.P. Anthropometric Predictors Of The Postprandial Triglyceride Response In A Metabolically At-risk Cohort. Poster presentation at ACSM Annual Meeting, Denver, CO.
   - Kropatsch, K., Chamberlin, M., __Wilson, S.M.G__, Spears, M., and Miles, M.P. Anthropometric Determinants Of HOMA-IR In A Metabolically At-risk Population. Poster presentation at ACSM Annual Meeting, Denver, CO.
   - Spears, M., Chamberlin, M., Bhattarai, P., Kropatsch, K., __Wilson, S.M.G__, and Miles, M.P. Relationship Between Body Composition And Inflammation In Individuals At Risk For Metabolic Syndrome. Poster presentation at ACSM Annual Meeting, Denver, CO.
