@@ -21,6 +21,10 @@ Minors: Biology, Chemistry, Studio Art
 
 ### Publications
 
+#### 2023
+
+-   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. Frontiers in Nutrition (Accepted). &dagger;first authorship shared
+    
 #### 2022
 
 -   **Wilson, S.M.G.**, Peterson, EJ, Gaston, ME, Kuo, W., and Miles, M.P. Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity -- A Randomized Clinical Trial. Nutrition Research. Vol. 106. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
