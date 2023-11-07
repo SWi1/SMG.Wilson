@@ -4,7 +4,7 @@ Dietary Bioactives, Postprandial Metabolism, Chronic Disease Prevention, Host-As
 
 ### Education
 
-**PhD, Individual Interdisciplinary - 2022**\
+**PhD, Individual Interdisciplinary (Nutrition) - 2022**\
 Montana State University, Bozeman, Montana\
 Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota\
 Committee: Drs. Mary P. Miles, Carl J. Yeoman, Seth T. Walk, Brian Bothner\
@@ -19,7 +19,7 @@ Committee: Drs. Mary P. Miles, Carl J. Yeoman, John Seifert
 Indiana University, Bloomington, Indiana\
 Minors: Biology, Chemistry, Studio Art
 
-### Research Experience
+### Work Experience
 
 **Postdoctoral Fellow - 2022-Current**\
 Texas A&M AgriLife: Institute for Advancing Health Through Agriculture, USDA-ARS Western Human Nutrition Research Center (WHNRC)\
