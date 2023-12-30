@@ -1,11 +1,11 @@
 # Stephanie M.G. Wilson Curriculum Vitae
-**RESEARCH INTERESTS**\
-Dietary Bioactives, Postprandial Metabolism, Chronic Disease Prevention, Host-Associated Microbiomes
+**Research Interests**\
+Chronic Disease Prevention, Dietary Bioactives, Postprandial Metabolism, Host-Associated Microbiomes
 
 
 ### Education
 
-**PhD Individual Interdisciplinary (Nutrition), 2022**\
+**PhD Individual Interdisciplinary (Nutrition emphasis), 2022**\
 Montana State University, Bozeman, MT\
 Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota\
 Certificate in Applied Statistics: 2020
@@ -14,7 +14,7 @@ Certificate in Applied Statistics: 2020
 Montana State University, Bozeman, MT\
 Thesis: Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
 
-**BS Exercise Science - 2013**\
+**BS Exercise Science, 2013**\
 Indiana University, Bloomington, IN 
 
 ### Employment
@@ -22,11 +22,11 @@ Indiana University, Bloomington, IN
 **Postdoctoral Fellow, 2022 - Current**\
 USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
 Texas A&M Institute for Advancing Health Through Agriculture, College Station, TX\
-Principle Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
+Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 **Graduate Researcher and Project Manager, 2016 - 2022**\
 Montana State University, Bozeman, MT\
-Principle Investigator: Dr. Mary P. Miles
+Principal Investigator: Dr. Mary P. Miles
 
 ### Publications
 #### Journal Articles
@@ -39,7 +39,7 @@ Principle Investigator: Dr. Mary P. Miles
     
 -   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
--   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021).Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
+-   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
 
 -   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
 
