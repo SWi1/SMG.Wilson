@@ -12,7 +12,7 @@ Certificate in Applied Statistics: 2020
 
 **MS Exercise and Nutrition Sciences, 2018**\
 Montana State University, Bozeman, MT\
-[Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
+Thesis: Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
 
 **BS Exercise Science - 2013**\
 Indiana University, Bloomington, IN 
