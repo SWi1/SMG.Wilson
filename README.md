@@ -5,44 +5,45 @@ Dietary Bioactives, Postprandial Metabolism, Chronic Disease Prevention, Host-As
 
 ### Education
 
-**PhD Individual Interdisciplinary (Nutrition) - 2022**\
-Montana State University, Bozeman, Montana\
+**PhD Individual Interdisciplinary (Nutrition), 2022**\
+Montana State University, Bozeman, MT\
 Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Microbiota\
 Certificate in Applied Statistics: 2020
 
-**MS Exercise and Nutrition Sciences - 2018**\
-Montana State University, Bozeman, Montana\
+**MS Exercise and Nutrition Sciences, 2018**\
+Montana State University, Bozeman, MT\
 [Thesis](https://scholarworks.montana.edu/xmlui/handle/1/15111): Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
 
 **BS Exercise Science - 2013**\
-Indiana University, Bloomington, Indiana\
-Minors: Biology, Chemistry, Studio Art
+Indiana University, Bloomington, IN 
 
 ### Employment
 
-**Postdoctoral Fellow - 2022-Current**\
+**Postdoctoral Fellow, 2022 - Current**\
 USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
 Texas A&M Institute for Advancing Health Through Agriculture, College Station, TX\
 Principle Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
-**Graduate Researcher and Project Manager - 2016-2022**\
+**Graduate Researcher and Project Manager, 2016 - 2022**\
 Montana State University, Bozeman, MT\
 Principle Investigator: Dr. Mary P. Miles
 
 ### Publications
 #### Journal Articles
 
+-    **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Systemic and Gastrointestinal Inflammation in Healthy Adults. Nutrients. (*Submitted*)
+
 -   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., and Lemay, D.G. (2023). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. (*In Review*).
 
--   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition* (Sec. Nutrition and Microbes). Vol. 10. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
+-   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition* (Sec. Nutrition and Microbes). [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
     
--   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. Vol. 106. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
+-   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
 -   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021).Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
 
--   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *IScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
+-   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
 
--   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019, Vol. 8, No. 2, pp. 64-73. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
+-   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
 
 #### Other Publications
 
@@ -76,9 +77,9 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   2017 - 2019, Graduate Teaching Assistant, Capstone for Dietetics (400-level), Montana State University, Spring semesters
 -   2017 - 2018, Graduate Teaching Assistant, Nutrition Assessment & Counsel (400-level), Montana State University, Spring semesters
 
-#### Undergraduate Mentees
+#### Mentorship
 
-* Mentorship for student-driven [National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presentation
+\* indicates 1-on-1 mentorship for student-driven [National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presentation
 
 -   2021-2022: Katie Logan, Katy Kropatsch\*, Amanda Anderson\*, Jessica Kudelski\*, Jayme Dyc\*, Mackenzie Winters\*
 -   2020-2021: Kaitlyn Weinheimer\*, Anna Kristenson, Claire Turner, Rachel Nyquist, Sofia Whitefields\*
@@ -102,4 +103,4 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 -   Surveys and Assessments: REDCap; Qualtrics, ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva
+-   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
