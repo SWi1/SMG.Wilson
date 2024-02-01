@@ -33,9 +33,9 @@ Principal Investigator: Dr. Mary P. Miles
 
 -    **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Systemic and Gastrointestinal Inflammation in Healthy Adults. Nutrients. (*Submitted*)
 
--    Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., and Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. (*In Review*).
+-   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2023). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. (*In Review*).
 
--   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., and Lemay, D.G. (2023). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. (*In Review*).
+-   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
 
 -   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition* (Sec. Nutrition and Microbes). [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
     
