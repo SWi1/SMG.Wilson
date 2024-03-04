@@ -33,7 +33,7 @@ Principal Investigator: Dr. Mary P. Miles
 
 -    **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Systemic and Gastrointestinal Inflammation in Healthy Adults. (*Submitted*)
 
--   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2023). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. (*In Review*).
+-   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition* [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
 -   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
 
