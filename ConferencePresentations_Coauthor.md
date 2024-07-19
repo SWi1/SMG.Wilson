@@ -1,7 +1,12 @@
 ## Stephanie M.G. Wilson Curriculum Vitae 
 
-### Conference Presentations, Coauthored
+### Conference Presentations, Co-authored
 First author presentations listed separately.
+
+#### 2024
+
+  - Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation at ASN NUTRITION 2024. Chicago, IL.
+  - Lee, L.M., __Wilson, S.M.G.__, Wolfe, T.M., Walk, S.T., Yeoman, C.J., Miles, M.P. Impact of Fecal Microbial Transplant Donor Inflammatory Phenotype on Tissue Inflammation in Humanized Mouse Models After a High-Fat Diet. Poster Presentation at ASN NUTRITION 2024. Chicago, IL.
 
 #### 2023
 
