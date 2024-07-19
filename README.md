@@ -1,6 +1,6 @@
 # Stephanie M.G. Wilson Curriculum Vitae
 **Research Interests**\
-Chronic Disease Prevention, Dietary Bioactives, Postprandial Metabolism, Host-Associated Microbiomes
+Chronic Disease Prevention, Dietary Bioactives, Plant Foods, Host-Associated Microbiomes
 
 
 ### Education
@@ -51,25 +51,35 @@ Principal Investigator: Dr. Mary P. Miles
 
 -   Miles, M.P., **Wilson, S.M.G.**, Chamberlin, M.L. (2022) *Sports Nutrition Laboratory Manual*. Montana State University Library. <https://scholarworks.montana.edu/xmlui/handle/1/16659>
 
+### Clinical Trial Experience
+-   Impact of Foods on Bile Acids, Metabolites, and Inflammation [(NCT05245357)](https://clinicaltrials.gov/study/NCT05245357)
+-   Impact of Lentils on Metabolism and Inflammation [(NCT04283448)](https://clinicaltrials.gov/study/NCT04283448)
+-   Dietary Incorporation of Lentils to Improve Metabolic Health [(NCT04448067)](https://clinicaltrials.gov/study/NCT04448067)
+-   Impacts of Aronia on Inflammation and the Gut Microbiome [(NCT04128839)](https://clinicaltrials.gov/study/NCT04128839)
+
 ### Awards
 
--   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist, American Society for Nutrition
+-   2023, 2024: Emerging Leaders in Nutrition Science Poster Competition Finalist, American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
 -   2022: President's Award for Gender Equity, Montana State University
 -   2022: Graduate School Excellence Award for Scholarship; Montana State University
 
-### Select Recent Conference Presentations
+### Select Conference Presentations
 
 Recent 1st Author Presentations Listed. Additional conference presentations listed here: [Primary Author](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentations_Primary.md) and [Co-authored](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentations_Coauthor.md).
 
--   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2023. Boston, MA.
+-   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral talk. 2024. Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
 
--   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the 2022 ACSM Annual Meeting and World Congresses. San Diego, CA.
+-   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2024. Chicago, IL, USA.
 
--   **Wilson, S.M.**, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults -- a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.
-  
--   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to the 2019 Gordon Research Conference -- Metabolomics and Human Health conference, Ventura, CA.
+-   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral talk. 2024. National Nutrient Databank Conference. Ottawa, Canada.
 
+-   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2023. Boston, MA, USA.
+
+-   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the 2022 ACSM Annual Meeting and World Congresses. San Diego, CA, USA.
+
+### Grants
+-   2024, Impact of Pules Consumption on Lowering Antimicrobial Resistance in Gut Microbiomes (Year 1 $90,413) - Contributor, Key Personnel
 
 ### Teaching
 
@@ -89,10 +99,10 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   2018-2019: Brenna Ostertag, Isabella Stoakes
 -   2016-2017: Adam Maes
 
-### Academic Leadership
+### Leadership
 
--   2023 - 2024: Advising for Equity Administrative Advisory Committee, Institutional Elements Subcommittee, UC Davis
 -   2023 - 2024: Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
+-   2023 - 2024: Advising for Equity Administrative Advisory Committee, Institutional Elements Subcommittee, UC Davis
 -   2018 - Fall 2021: Graduate Employee Organization, Departmental Steward, Montana State University
 -   2017 - 2021: President's Commission on the Status of University Women, Graduate Student Representative, Policy Subcommittee, Montana State University
 
