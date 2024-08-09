@@ -31,7 +31,9 @@ Principal Investigator: Dr. Mary P. Miles
 ### Publications
 #### Journal Articles
 
--    **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Systemic and Gastrointestinal Inflammation in Healthy Adults. (*Submitted*)
+-   Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. (*In Review*)
+
+-   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Systemic and Gastrointestinal Inflammation in Healthy Adults. (*In Revision*)
 
 -   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition* [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
@@ -101,7 +103,7 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 ### Leadership
 
--   2023 - 2024: Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
+-   2023 - Present: Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
 -   2023 - 2024: Advising for Equity Administrative Advisory Committee, Institutional Elements Subcommittee, UC Davis
 -   2018 - Fall 2021: Graduate Employee Organization, Departmental Steward, Montana State University
 -   2017 - 2021: President's Commission on the Status of University Women, Graduate Student Representative, Policy Subcommittee, Montana State University
