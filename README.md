@@ -33,11 +33,11 @@ Principal Investigator: Dr. Mary P. Miles
 
 -   Diffenderfer, **Wilson, S.M.G.**, McMillin, C., Miles, M.P. Interprofessional and Nutrition Education Among Dietetic, Pre-Medical and Pre-Nursing Students: A Cross-sectional Analysis of Knowledge, Attitude, Perception, Readiness and Behavior. (*In Revision*)
   
--   Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. (*In Revision*)
+-   Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
 
--   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition* [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
+-   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
 
--   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition* [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
+-   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
 -   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
 
