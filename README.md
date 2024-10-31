@@ -56,7 +56,7 @@ Principal Investigator: Dr. Mary P. Miles
 -   Miles, M.P., **Wilson, S.M.G.**, Chamberlin, M.L. (2022) *Sports Nutrition Laboratory Manual*. Montana State University Library. <https://scholarworks.montana.edu/xmlui/handle/1/16659>
 
 ### Grants
--   2024, Impact of Pules Consumption on Lowering Antimicrobial Resistance in Gut Microbiomes, Pulse Crop Health Initiative (Year 1 $90,413) - Contributor, Key Personnel
+-   2024, Impact of Pulses Consumption on Lowering Antimicrobial Resistance in Gut Microbiomes, Pulse Crop Health Initiative (Year 1 $90,413) - Contributor, Key Personnel
 -   2024, Identification of molecular traits of specific pulses that maximize human health, Pulse Crop Health Initiative (Year 1 $81,813) - Contributor
 
 ### Clinical Trial Experience
@@ -108,7 +108,10 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   2018-2019: Brenna Ostertag, Isabella Stoakes
 -   2016-2017: Adam Maes
 
-### Leadership
+### Leadership and Service
+#### Editorial
+-   2024 – Present: Applied Physiology, Nutrition, and Metabolism, Reviewer Board Member
+
 #### National
 -   2023 - Present: Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
 
