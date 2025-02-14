@@ -100,20 +100,20 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 #### Mentorship
 
-\* indicates 1-on-1 mentorship for [National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presentation
+\* indicates mentee for [National Conference on Undergraduate Research](https://www.cur.org/) (NCUR) presentation
 
--   2021-2022: Katie Logan, Katy Kropatsch\*, Amanda Anderson\*, Jessica Kudelski\*, Jayme Dyc\*, Mackenzie Winters\*
--   2020-2021: Kaitlyn Weinheimer\*, Anna Kristenson, Claire Turner, Rachel Nyquist, Sofia Whitefields\*
--   2019-2020: Ian Breuner\*, Kirsten Pfannmuller\*, Gia Sorini\*, Bailey Veitenheimer\*
--   2018-2019: Brenna Ostertag, Isabella Stoakes
--   2016-2017: Adam Maes
+-   2021 - 2022: Morgan Chamberlin (PhD), Katie Logan (BS), Katy Kropatsch (BS)\*, Amanda Anderson (BS)\*, Jessica Kudelski (BS)\*, Jayme Dyc (BS)\*, Mackenzie Winters (BS)\*
+-   2020 - 2021: Hunter Baum (MS), Kaitlyn Weinheimer (BS)\*, Anna Kristenson (BS), Claire Turner (BS), Rachel Nyquist (BS), Sofia Whitefields (BS)\*
+-   2019 - 2020: Ian Breuner (BS)\*, Kirsten Pfannmuller (BS)\*, Gia Sorini (BS)\*, Bailey Veitenheimer (BS)\*
+-   2018 - 2019: Brenna Ostertag (BS), Isabella Stoakes (BS)
+-   2016 - 2017: Adam Maes (BS)
 
 ### Leadership and Service
 #### Editorial
 -   2024 – Present: Applied Physiology, Nutrition, and Metabolism, Reviewer Board Member
 
 #### National
--   2023 - Present: Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
+-   2023 - Present: Abstract Reviewer; Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
 
 #### Institutional
 -   2023 - 2024: Advising for Equity Administrative Advisory Committee, Institutional Elements Subcommittee, UC Davis
