@@ -86,6 +86,8 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation to 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
 #### National
+-   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation at USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
+
 -   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2024. Chicago, IL, USA.
 
 -   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2023. Boston, MA, USA.
@@ -131,4 +133,4 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 -   Surveys and Assessments: REDCap; Qualtrics; ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Graphic Design (Science Communication): Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
+-   Science Communication Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
