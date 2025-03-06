@@ -3,6 +3,11 @@
 ### Conference Presentations, Co-authored
 First author presentations listed separately.
 
+#### 2025
+  - Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentation at ASN NUTRITION 2025. Orlando, FL. 
+  - Hilliard, M.A., Oliver, A., Shahab-Ferdows, S., Hampel, D., __Wilson, S.M.G.__, Stephensen, C.B., Allen, L.H., Lemay, D.G. Diet and Microbiome Predictors of Plasma Vitamin B<sub>12</sub> in Healthy U.S. Adults. Oral presentation at ASN NUTRITION 2025. Orlando, FL.
+  - Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Presentation at ASN NUTRITION 2025. Orlando, FL.
+
 #### 2024
 
   - Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation at ASN NUTRITION 2024. Chicago, IL.
