@@ -69,9 +69,10 @@ Principal Investigator: Dr. Mary P. Miles
 -   Impacts of Aronia on Inflammation and the Gut Microbiome [(NCT04128839)](https://clinicaltrials.gov/study/NCT04128839)
 
 ### Awards
-
--   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist, American Society for Nutrition  
--   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist, American Society for Nutrition
+-   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
+-   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components, Nutritional Microbiology), American Society for Nutrition 
+-   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition  
+-   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
 -   2022: President's Award for Gender Equity, Montana State University
 -   2022: Graduate School Excellence Award for Scholarship; Montana State University
