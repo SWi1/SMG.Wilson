@@ -88,6 +88,10 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation to 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
 #### National
+-   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology) at NUTRITION 2025. Orlando, FL, USA.
+
+-   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components) at NUTRITION 2025. Orlando, FL, USA.
+  
 -   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation at USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
 
 -   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2024. Chicago, IL, USA.
@@ -119,6 +123,7 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   2024 – Present: Applied Physiology, Nutrition, and Metabolism, Reviewer Board Member
 
 #### National
+-   2025: Program Committee, National Nutrient Databank Conference
 -   2023 - Present: Abstract Reviewer; Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
 
 #### Institutional
