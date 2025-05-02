@@ -119,17 +119,20 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 -   2016 - 2017: Adam Maes (BS)
 
 ### Leadership and Service
-#### Editorial
--   2024 – Present: Applied Physiology, Nutrition, and Metabolism, Reviewer Board Member
+#### Reviewer
+-   2024 – Present: Reviewer Board Member, Applied Physiology, Nutrition, and Metabolism
+-   Ad hoc: Journal of Nutrition, Journal of the Academy of Nutrition and Dietetics, Food & Function
 
 #### National
--   2025: Program Committee, National Nutrient Databank Conference
--   2023 - Present: Abstract Reviewer; Dietary Bioactive Components GEM, Postdoctoral Representative, American Society for Nutrition
+-   2025: Program Committee Member, National Nutrient Databank Conference
+-   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
+-   2023 – Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
--   2023 - 2024: Advising for Equity Administrative Advisory Committee, Institutional Elements Subcommittee, UC Davis
--   2018 - 2021: Graduate Employee Organization, Departmental Steward, Montana State University
--   2017 - 2021: President's Commission on the Status of University Women, Graduate Student Representative, Policy Subcommittee, Montana State University
+-   2025: Panelist, Demystifying Graduate School from a Fil Am Perspective, UC Davis
+-   2023 - 2024: Institutional Elements Subcommittee Member, Advising for Equity Administrative Advisory Committee, UC Davis
+-   2018 - 2021: Departmental Steward, Graduate Employee Organization, Montana State University
+-   2017 - 2021: Graduate Student Representative and Policy Subcommittee Member, President's Commission on the Status of University Women, Montana State University
 
 ### Professional Memberships
 
