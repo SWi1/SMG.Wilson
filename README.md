@@ -19,9 +19,14 @@ Indiana University, Bloomington, IN
 
 ### Employment
 
-**Postdoctoral Fellow, 2022 - Current**\
+**Postdoctoral Fellow, June 2025 - Present**\
+University of California, Davis (UCD), Davis, CA\
 USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
+Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
+
+**Postdoctoral Fellow, August 2022 - May 2025**\
 Texas A&M Institute for Advancing Health Through Agriculture, College Station, TX\
+USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
 Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 **Graduate Researcher and Project Manager, 2016 - 2022**\
@@ -70,7 +75,8 @@ Principal Investigator: Dr. Mary P. Miles
 
 ### Awards
 -   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
--   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components, Nutritional Microbiology), American Society for Nutrition 
+-   2025: Emerging Leaders in Nutrition Science Poster Competition Winner, 1st Place (Dietary Bioactive Components), American Society for Nutrition 
+-   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Nutritional Microbiology), American Society for Nutrition 
 -   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition  
 -   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
