@@ -56,7 +56,7 @@ Principal Investigator: Dr. Mary P. Miles
 
 #### Journal Articles (Submitted)
 
--   Gersten, Z., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. A cross-sectional study of the Nutrient Diversity Index and its convergent validity with dietary adequacy and quality in a sample of healthy US adults. (*Submitted*)
+-   Gersten, Z., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with dietary adequacy and quality. (*Submitted*)
 -   Diffenderfer, **Wilson, S.M.G.**, McMillin, C., Miles, M.P. Interprofessional and Nutrition Education Among Dietetic, Pre-Medical and Pre-Nursing Students: A Cross-sectional Analysis of Knowledge, Attitude, Perception, Readiness and Behavior. (*In Revision*)
 
 #### Other Publications
