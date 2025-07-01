@@ -126,11 +126,12 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 ### Leadership and Service
 #### Reviewer
--   2024 – Present: Reviewer Board Member, Applied Physiology, Nutrition, and Metabolism
--   Ad hoc: Journal of Nutrition, Journal of the Academy of Nutrition and Dietetics, Food & Function
+-   July 2025 - Present: Board of Editors Member, Journal of Nutrition, Journal of the Academy of Nutrition and Dietetics
+-   Nov 2024 – Present: Reviewer Board Member, Applied Physiology, Nutrition, and Metabolism
+-   Ad hoc: Journal of Nutrition, Food & Function
 
 #### National
--   2025: Program Committee Member, National Nutrient Databank Conference
+-   2025 - Present: Program Committee Member, National Nutrient Databank Conference
 -   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
 -   2023 – Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
@@ -149,4 +150,4 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 -   Surveys and Assessments: REDCap; Qualtrics; ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Science Communication Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
+-   Science Communication, Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
