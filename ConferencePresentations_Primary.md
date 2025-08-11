@@ -1,3 +1,8 @@
+---
+title: Conference Presentations
+permalink: /presentations/
+---
+
 ## Stephanie M.G. Wilson Curriculum Vitae 
 
 ### Conference Presentations, Presenting Author
