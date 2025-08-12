@@ -128,7 +128,7 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 #### Reviewer
 -   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
 -   Nov 2024 – Present: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
--   Ad hoc: *Journal of Nutrition*, *Food & Function*
+-   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*
 
 #### National
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
