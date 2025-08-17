@@ -1,6 +1,6 @@
 ---
 title: CV
-permalink: /CV/
+permalink: /cv/
 ---
 
 # Stephanie M.G. Wilson Curriculum Vitae
