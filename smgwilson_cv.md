@@ -1,3 +1,8 @@
+---
+title: CV
+permalink: /CV/
+---
+
 # Stephanie M.G. Wilson Curriculum Vitae
 **Research Interests**\
 Chronic Disease Prevention, Dietary Bioactives, Host-Associated Microbiomes
