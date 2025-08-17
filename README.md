@@ -2,7 +2,7 @@
   <img src="images/Stephanie_Wilson.jpg" alt="profile of Stephanie Wilson in front of an orange background" width="500">
 </p>
 
-# Stephanie M.G. Wilson, PhD (she/her) 
+<h1 align="center">Stephanie M.G. Wilson, PhD (she/her)</h1>
 
 <p align="center">
 Nutrition Scientist | Science Communicator | Changemaker
