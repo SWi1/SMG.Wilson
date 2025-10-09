@@ -46,11 +46,11 @@ If you’d like to collaborate or learn more, please reach out [via email](https
 
 <div class="gallery">
   <figure>
-    <img src="https://github.com/SWi1/SMG.Wilson/blob/main/images/taxaHFE_logo.png" alt="Three trees and a dendrogram with taxaHFE in white text">
+    <img src="https://github.com/SWi1/SMG.Wilson/blob/4f918e26fd240d625050f8847f64b90feb8b19b2/images/taxaHFE_logo.png" alt="Three trees and a dendrogram with taxaHFE in white text">
     <figcaption><a href="https://doi.org/10.1093/bioadv/vbad165">TaxaHFE program</a></figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/SWi1/SMG.Wilson/blob/main/images/FoodMapper_logo_final.png" alt="Four foods in a row, with two of the same food connected by a white line">
+    <img src="https://github.com/SWi1/SMG.Wilson/blob/4f918e26fd240d625050f8847f64b90feb8b19b2/images/FoodMapper_logo_final.png" alt="Four foods in a row, with two of the same food connected by a white line">
     <figcaption><a href="https://richtext-semantic-food-mapper.hf.space/">FoodMapper: An Advanced semantic matching tool for aligning food descriptions across nutritional databases</a></figcaption>
   </figure>
 </div>
