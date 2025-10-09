@@ -15,14 +15,46 @@ If you’d like to collaborate or learn more, please reach out [via email](https
 
 
 ## Logos
-![Three trees and a dendrogram with taxaHFE in white text](images/taxaHFE_logo.png)
+# My Slide Gallery
 
-[TaxaHFE: A Machine Learning Approach to Collapse Microbiome Datasets Using Taxonomic Structure](https://doi.org/10.1093/bioadv/vbad165).
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
 
-![Four foods in a row, with two of the same food connected by a white line](images/FoodMapper_logo_final.png) 
+.gallery figure {
+  flex: 1 1 300px;
+  max-width: 45%;
+  text-align: center;
+}
 
-[FoodMapper: An Advanced semantic matching tool for aligning food descriptions across nutritional databases](https://richtext-semantic-food-mapper.hf.space/)
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
 
+.gallery figcaption {
+  margin-top: 5px;
+  font-size: 0.9em;
+  color: #555;
+}
+</style>
+
+<div class="gallery">
+  <figure>
+    <img src="images/taxaHFE_logo.png" alt="Three trees and a dendrogram with taxaHFE in white text">
+    <figcaption><a href="https://doi.org/10.1093/bioadv/vbad165">TaxaHFE program</a></figcaption>
+  </figure>
+  <figure>
+    <img src="images/FoodMapper_logo_final.png" alt="Four foods in a row, with two of the same food connected by a white line">
+    <figcaption><a href="https://richtext-semantic-food-mapper.hf.space/">FoodMapper: An Advanced semantic matching tool for aligning food descriptions across nutritional databases</a></figcaption>
+  </figure>
+</div>
 
 ## Schematics
 ![Contains a photo of beans, a photo of someone holding receipts, and someone holding a small plant with gloved hands](images/AIFS_2024_Schematic.png)
