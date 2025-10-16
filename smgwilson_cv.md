@@ -41,28 +41,29 @@ Principal Investigator: Dr. Mary P. Miles
 ### Publications
 #### Journal Articles
   
-1.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
+1. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
 
-2.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
+2.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. (2024). Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
 
-3.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
+3.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
 
-4.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+4.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
-5.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
+5.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+
+6.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
     
-6.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
+7.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
-7.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
+8.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
 
-8.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
+9.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
 
-9.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
+10.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
 
 #### Journal Articles (Submitted)
 
--   Gersten, Z., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with dietary adequacy and quality. (*Submitted*)
--   Diffenderfer, **Wilson, S.M.G.**, McMillin, C., Miles, M.P. Interprofessional and Nutrition Education Among Dietetic, Pre-Medical and Pre-Nursing Students: A Cross-sectional Analysis of Knowledge, Attitude, Perception, Readiness and Behavior. (*In Revision*)
+-  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
 
 #### Other Publications
 
