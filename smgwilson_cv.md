@@ -16,7 +16,7 @@ Dissertation: Diet-Induced Alterations to Postprandial Metabolism and the Gut Mi
 Certificate in Applied Statistics: 2020
 
 **MS Exercise and Nutrition Sciences, 2018**\
-Montana State University, Bozeman, MT\
+Montana State University, Bozeman, MT
 
 **BS Exercise Science, 2013**\
 Indiana University, Bloomington, IN 
