@@ -17,7 +17,6 @@ Certificate in Applied Statistics: 2020
 
 **MS Exercise and Nutrition Sciences, 2018**\
 Montana State University, Bozeman, MT\
-Thesis: Post-prandial serum concentrations of trimethylamine-N-oxide in overweight and obese adults with low and high systemic inflammation
 
 **BS Exercise Science, 2013**\
 Indiana University, Bloomington, IN 
@@ -80,8 +79,8 @@ Principal Investigator: Dr. Mary P. Miles
 -   Impacts of Aronia on Inflammation and the Gut Microbiome [(NCT04128839)](https://clinicaltrials.gov/study/NCT04128839)
 
 ### Awards
--   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
 -   2025: Emerging Leaders in Nutrition Science Poster Competition Winner, 1st Place (Dietary Bioactive Components), American Society for Nutrition 
+-   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
 -   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Nutritional Microbiology), American Society for Nutrition 
 -   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition  
 -   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition
@@ -132,14 +131,14 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 ### Leadership and Service
 #### Reviewer
--   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
--   Nov 2024 – Present: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
+-   July 2025 - **Present**: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
+-   Nov 2024 – **Present**: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*
 
 #### National
--   2025 - Present: Program Committee Member, National Nutrient Databank Conference
+-   2025 - **Present**: Program Committee Member, National Nutrient Databank Conference
 -   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
--   2023 – Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
+-   2023 – **Present**: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
 -   2025: Panelist, Demystifying Graduate School from a Fil Am Perspective, UC Davis
@@ -149,7 +148,8 @@ Recent 1st Author Presentations Listed. Additional conference presentations list
 
 ### Professional Memberships
 
--   2022 - Present: American Society for Nutrition, Early Career I Member
+-   2025: American Society for Microbiology
+-   2022 - **Present**: American Society for Nutrition, Early Career I Member
 -   2016 - 2022: American College of Sports Medicine, Member
 
 ### Program Skills
